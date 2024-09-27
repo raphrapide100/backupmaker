@@ -1,5 +1,5 @@
 @echo off
-pause
+pause>nul
 title Backup Maker - INDEV
 color 6
 goto :loader
